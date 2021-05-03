@@ -1,8 +1,10 @@
 # windows_customizations
+Basic customizations for Windows 10 that I like. Most are manual at this time, or just a reminder list of things to install.
 
 - Notepad ++
   - Dracula theme
 - ShareX
+  - Additionally, <kbd>Win</kbd>+<kbd>Shift</kbd>+<kbd>S</kbd> to use the built in Snipping Tool to capture a region to clipboard.
 - Windows Terminal
   - Settings.json
 - .ssh/config
